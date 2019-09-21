@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Db.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="229.35087"
+     inkscape:cy="264.42842"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0.26726953,75.637276"
+       orientation="1,0"
+       id="guide46"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="28.865108,83.922634"
+       orientation="0,1"
+       id="guide48"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:#0000ff;stroke-width:0.26999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4518"
+       width="20.713387"
+       height="22.985178"
+       x="27.929667"
+       y="221.36272" />
+    <rect
+       style="fill:#00ff80;fill-opacity:1;stroke:#3eff37;stroke-width:0.33186296;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520"
+       width="30.540497"
+       height="13.568883"
+       x="9.9199038"
+       y="253.59964" />
+    <rect
+       style="fill:#00ff80;fill-opacity:1;stroke:#3eff37;stroke-width:0.33407637;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4522"
+       width="29.602842"
+       height="13.2994"
+       x="56.292274"
+       y="254.13528" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffff37;stroke-width:0.33515748;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4524"
+       width="15.971014"
+       height="14.901936"
+       x="74.734413"
+       y="218.58896" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="28.330568"
+       y="233.25621"
+       id="text4528"><tspan
+         sodipodi:role="line"
+         id="tspan4526"
+         x="28.330568"
+         y="233.25621"
+         style="stroke-width:0.26458332">Databáze</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="75.770905"
+       y="226.7081"
+       id="text4532"><tspan
+         sodipodi:role="line"
+         id="tspan4530"
+         x="75.770905"
+         y="226.7081"
+         style="stroke-width:0.26458332">Admin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.289876"
+       y="258.11227"
+       id="text4536"><tspan
+         sodipodi:role="line"
+         id="tspan4534"
+         x="10.289876"
+         y="258.11227"
+         style="stroke-width:0.26458332">example.com</tspan><tspan
+         sodipodi:role="line"
+         x="10.289876"
+         y="263.40393"
+         style="stroke-width:0.26458332"
+         id="tspan4538">/login.php</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.062042"
+       y="258.91409"
+       id="text4542"><tspan
+         sodipodi:role="line"
+         id="tspan4540"
+         x="57.062042"
+         y="258.91409"
+         style="stroke-width:0.26458332">example.com</tspan><tspan
+         sodipodi:role="line"
+         x="57.062042"
+         y="264.20575"
+         style="stroke-width:0.26458332"
+         id="tspan4544">/register.php</tspan></text>
+    <rect
+       style="fill:#fffc00;fill-opacity:1;stroke:#5eff00;stroke-width:0.26999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4546"
+       width="59.467468"
+       height="15.501633"
+       x="24.187893"
+       y="277.62296" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.896759"
+       y="286.71014"
+       id="text4550"><tspan
+         sodipodi:role="line"
+         id="tspan4548"
+         x="42.896759"
+         y="286.71014"
+         style="stroke-width:0.26458332">Uživatelé</tspan></text>
+    <path
+       style="fill:#2b0000;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.408691,277.48931 -7.750817,-10.28986 -0.668173,4.6772 0.801808,-4.54356 4.677217,1.87087 -4.810852,-2.13815"
+       id="path4552"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60.002009,277.75659 2.939963,-10.28988 1.737254,4.14268 -1.870887,-4.14268 -4.009044,2.53907"
+       id="path4554"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.18337,253.5687 5.746295,-9.2208 2.004523,4.27631 -2.004523,-4.27631 -4.944486,1.20271"
+       id="path4556"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 59.868373,255.30595 48.64305,244.3479 l -1.336344,4.67722 1.336344,-4.67722 4.944491,0.53454"
+       id="path4558"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.236371,226.57448 -26.326047,-0.53454 5.078119,-3.34087 -5.211755,3.60814 4.409948,2.93996"
+       id="path4560"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.818639,244.61517 -3.073601,8.81989 3.608139,-2.53906 -3.474503,2.27179 -1.603619,-3.34086"
+       id="path4562"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.776688,237.66616 20.980657,16.03617 0.935445,-5.87993 -0.935445,5.07812 -6.815373,-0.13363"
+       id="path4564"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.563677,267.86763 -2.271792,9.48806 3.608139,-2.93997 -3.474503,2.80633 -2.672697,-4.00904"
+       id="path4568"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17.773423,267.33309 6.41447,10.28986 0.935442,-2.67269 -0.935442,2.67269 -3.34087,-0.26726"
+       id="path4570"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.375784,229.78171 26.358627,3.70918 -3.774353,2.57165 3.774353,-2.57165 -3.907988,-4.64462"
+       id="path4572"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.02788,283.50289 21.78247,-0.53454 -3.20724,4.00905 3.34087,-4.00905 -4.67722,-4.54358"
+       id="path4574"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.29515,268.00124 20.17885,-0.53453 -3.74177,5.61266 3.60814,-5.74628 -4.27632,-4.9445"
+       id="path4576"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.56242,251.96508 18.04069,-0.4009 -3.20723,4.94448 3.34087,-4.94448 -5.07812,-5.47903"
+       id="path4578"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.10148,236.32981 17.37252,-0.93544 -3.20724,4.00904 3.20724,-4.54358 -4.81085,-5.74629"
+       id="path4580"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="127.48756"
+       y="232.98894"
+       id="text4584"><tspan
+         sodipodi:role="line"
+         id="tspan4582"
+         x="127.48756"
+         y="232.98894"
+         style="stroke-width:0.26458332">HTTP(S) požadavek na data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="123.34489"
+       y="251.43054"
+       id="text4588"><tspan
+         sodipodi:role="line"
+         id="tspan4586"
+         x="123.34489"
+         y="251.43054"
+         style="stroke-width:0.26458332">Odeslání SQL dotazu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="125.48305"
+       y="266.93216"
+       id="text4592"><tspan
+         sodipodi:role="line"
+         id="tspan4590"
+         x="125.48305"
+         y="266.93216"
+         style="stroke-width:0.26458332">Navrácená data z databáze</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="129.62572"
+       y="284.43832"
+       id="text4596"><tspan
+         sodipodi:role="line"
+         id="tspan4594"
+         x="129.62572"
+         y="284.43832"
+         style="stroke-width:0.26458332">Zformátovaná data k zobrazení</tspan></text>
+  </g>
+</svg>
